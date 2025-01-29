@@ -1,0 +1,7 @@
+{
+    "prettier.tabWidth": 4,
+    "editor.detectIndentation": true,
+    "thunder-client.indentSize": 2,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+}
